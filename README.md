@@ -1,23 +1,22 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,50:8000ff,100:00ffff&height=200&section=header&text=NALIN%20TIWARY&fontSize=60&fontAlign=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=GHOST%20IN%20THE%20MACHINE&descAlign=50&descAlignY=60&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,50:8000ff,100:00ffff&height=200&section=header&text=KUMAR%20NALIN&fontSize=60&fontAlign=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&descAlign=50&descAlignY=60&descSize=20" />
 </p>
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&color=FFE81F&center=true&vCenter=true&width=800&height=200&lines=A+long+time+ago+in+a+repo+far,+far+away...;There+was+a+developer+named+Nalin+👨‍💻;Who+mastered+AI,+ML+and+the+Web;Building+intelligent+apps+and+systems...;The+adventure+continues+➡️" alt="Star Wars Crawl" />
+</p>
 <div align="center">
   
 ```ascii
-███╗   ██╗███████╗██╗   ██╗██████╗  █████╗ ██╗         ██╗███╗   ██╗██╗  ██╗
-████╗  ██║██╔════╝██║   ██║██╔══██╗██╔══██╗██║         ██║████╗  ██║██║ ██╔╝
-██╔██╗ ██║█████╗  ██║   ██║██████╔╝███████║██║         ██║██╔██╗ ██║█████╔╝ 
-██║╚██╗██║██╔══╝  ██║   ██║██╔══██╗██╔══██║██║         ██║██║╚██╗██║██╔═██╗ 
-██║ ╚████║███████╗╚██████╔╝██║  ██║██║  ██║███████╗    ██║██║ ╚████║██║  ██╗
-╚═╝  ╚═══╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝    ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝
+███╗   ██╗███████╗██╗   ██╗██████╗  █████╗ ██╗     ██╗███╗   ██╗██╗  ██╗
+████╗  ██║██╔════╝██║   ██║██╔══██╗██╔══██╗██║     ██║████╗  ██║██║ ██╔╝
+██╔██╗ ██║█████╗  ██║   ██║██████╔╝███████║██║     ██║██╔██╗ ██║█████╔╝ 
+██║╚██╗██║██╔══╝  ██║   ██║██╔══██╗██╔══██║██║     ██║██║╚██╗██║██╔═██╗ 
+██║ ╚████║███████╗╚██████╔╝██║  ██║██║  ██║███████╗██║██║ ╚████║██║  ██╗
+╚═╝  ╚═══╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝
 ```
 
 </div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&height=60&lines=⚡+NEURAL+NETWORK+ARCHITECT;🔥+CYBERPUNK+CODE+SAMURAI;🌃+DIGITAL+GHOST+%7C+NIGHT+CITY+OPERATIVE;💀+HACKING+THE+MATRIX+WITH+AI;🚀+FULL-STACK+NETRUNNER" alt="Typing SVG" />
-</p>
 
 <div align="center">
 
@@ -163,15 +162,9 @@ Tech: Python | FastAPI | FAISS | Plotly
 
 ## 🐍 CONTRIBUTION MATRIX (ACTIVITY GRID)
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
+</p>
 
 ## 📊 NEURAL NETWORK STATS
 
@@ -251,6 +244,3 @@ Tech: Python | FastAPI | FAISS | Plotly
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
-</p>
